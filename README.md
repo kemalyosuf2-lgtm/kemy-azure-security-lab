@@ -1,1 +1,0 @@
-# kemy-azure-security-lab
